@@ -40,9 +40,12 @@ O cualquier otra cosa del encabezado http. Si no tiene idea de esto, simplemente
 predeterminado.
 
 ## USAGE
-
+```
  cd DDOS
+ 
     go build DDOS.go
-    ./DDOS  <url> <threads> <get/post> <seconds> <header.txt/nil>
+   
+./DDOS  <url> <threads> <get/post> <seconds> <header.txt/nil>
+```
   
   
