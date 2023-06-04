@@ -9,15 +9,12 @@ Usando Golang (net/socket) para DDOS
 **¿Por qué puede ejecutar más de 1000 subprocesos**
 
 ## INFO
-- [x] HTTP Obtener inundación
- - [x] Inundación de publicaciones HTTP
- - [x] URL aleatoria (http recibe inundación)
- - [x] Encabezado de edición automática (puede usar "nil" para usar el encabezado predeterminado)
- - [x] Control de subprocesos mejorado
- - [x] Inundación más poderosa
- - [x] Obtención automática de dominio de formulario IP (función incorporada de golang)
- - [x] Fijo para sistemas 386
- -------------------------------------------------- ---
+
+Es un programa de denegación de servicio(DDOS) basada en go, esta herramienta da ciertas peticiones que el usuario desee, en un determinado tiempo, esto también lo elije el usuario al momento de ejecutar la herramienta, para el uso correcto de esta es necesaria la ip de la página a atacar. 
+
+
+
+
  Configuración de encabezado predeterminada:
  - [x] Agentes de usuario aleatorios
  - [x] Datos aleatorios (inundación de publicación de http)
